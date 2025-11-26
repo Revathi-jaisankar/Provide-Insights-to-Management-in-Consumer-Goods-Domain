@@ -23,6 +23,14 @@ The project uses several tables:
 - **SQL Workbench**  
 - **Power BI / Microsoft PowerPoint** (for dashboarding – presentation)
 
+## 🖥️ Project Link details
+
+👉 Click here to view the Resume Project Challenge [RPC-7](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
+
+📁 LinkedIn Post : [linkedIn post]()
+
+📁 YouTube Live Video : [post video](https://www.youtube.com/watch?v=zlZ6R4M7bhQ)
+
 ---
 
 ## 📘 Project Structure
